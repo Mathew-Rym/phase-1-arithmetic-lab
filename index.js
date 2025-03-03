@@ -1,8 +1,8 @@
 
 // Write your code here
-// 31 * 2 = 62
-const num1 = 31;
-const num2 = 2;
+// 62 * 1 = 62
+const num1 = 62;
+const num2 = 1;
 const multiply = num1 * num2; 
 
 // random integer ensures the number is > 0
